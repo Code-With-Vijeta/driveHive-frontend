@@ -14,7 +14,7 @@
     "postinstall": "chmod +x node_modules/.bin/vite || true"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.11",
+    "@tailwindcss/vite": "^4.1.13",
     "axios": "^1.10.0",
     "framer-motion": "^12.23.5",
     "gh-pages": "^6.3.0",
